@@ -1,0 +1,5091 @@
+[
+  {
+    "id": "525068",
+    "name": "Complete SQL Mastery",
+    "url": "https://codewithmosh.com/courses/enrolled/525068",
+    "number": 2.0,
+    "duration": {
+      "seconds": 38667,
+      "nanos": 0
+    },
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "MUST",
+    "modules": [
+      {
+        "name": "1- Getting Started",
+        "duration": {
+          "seconds": 1503,
+          "nanos": 0
+        },
+        "moduleNumber": 1.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10143091",
+            "id": "10143091",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/wePUPergTeeOoETUKyrD",
+            "duration": {
+              "seconds": 18,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- What is SQL",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590090",
+            "id": "9590090",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/KAXckNQO69WX6TrsATAg",
+            "duration": {
+              "seconds": 204,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Installing MySQL on Mac",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590091",
+            "id": "9590091",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/B9XN2VdgQSWfnrecfUCh",
+            "duration": {
+              "seconds": 298,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Installing MySQL on Windows",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590089",
+            "id": "9590089",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/PAeLrG1vSxeTAt7oIn0A",
+            "duration": {
+              "seconds": 320,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Creating the Databases",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590092",
+            "id": "9590092",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/7PEIAywFTtybMilbJIcI",
+            "duration": {
+              "seconds": 512,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- What You\u0027ll Learn",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10143042",
+            "id": "10143042",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/eUWLeRlJTM6G6LHbTQZ6",
+            "duration": {
+              "seconds": 151,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Follow Me Around",
+            "url": "https://codewithmosh.com/courses/525068/lectures/25353475",
+            "id": "25353475",
+            "courseId": "525068",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Learning Paths",
+            "url": "https://codewithmosh.com/courses/525068/lectures/34609491",
+            "id": "34609491",
+            "courseId": "525068",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "2- Retrieving Data From a Single Table",
+        "duration": {
+          "seconds": 3598,
+          "nanos": 0
+        },
+        "moduleNumber": 2.0,
+        "lectures": [
+          {
+            "name": "1- The SELECT Statement",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590114",
+            "id": "9590114",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ARvQta3BSB2uayK0mTze",
+            "duration": {
+              "seconds": 350,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- The SELECT Clause",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590110",
+            "id": "9590110",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ijrBl44FQxG4oT9Nc96H",
+            "duration": {
+              "seconds": 528,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- The WHERE Clause",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590107",
+            "id": "9590107",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/SL94iObeTcsQIPM3InVg",
+            "duration": {
+              "seconds": 317,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- The AND, OR and NOT Operators",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590116",
+            "id": "9590116",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/tCVFmUoWQJWo01YwCxv0",
+            "duration": {
+              "seconds": 412,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- The IN Operator",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590112",
+            "id": "9590112",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/VJG2RXL8Rbmf1aJahlIf",
+            "duration": {
+              "seconds": 183,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- The BETWEEN Operator",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590113",
+            "id": "9590113",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Zt1gAQuT561Vnuf5Z8EZ",
+            "duration": {
+              "seconds": 132,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- The LIKE Operator",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590108",
+            "id": "9590108",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/AWKmeXHuSqioE7AwFJWC",
+            "duration": {
+              "seconds": 337,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- The REGEXP Operator",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590111",
+            "id": "9590111",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/WQTCq5fUQlupAZaq47KC",
+            "duration": {
+              "seconds": 561,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- The IS NULL Operator",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590115",
+            "id": "9590115",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/FPHO8rOFS22m8fHZi6mQ",
+            "duration": {
+              "seconds": 146,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- The ORDER BY Clause",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590109",
+            "id": "9590109",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/GXsHXFh6RxKElBryYNKg",
+            "duration": {
+              "seconds": 426,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "11- The LIMIT Clause",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590117",
+            "id": "9590117",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/48z6F7SVR2WP27nHQZ9y",
+            "duration": {
+              "seconds": 206,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "3- Retrieving Data From Multiple Tables",
+        "duration": {
+          "seconds": 3696,
+          "nanos": 0
+        },
+        "moduleNumber": 3.0,
+        "lectures": [
+          {
+            "name": "1- Inner Joins",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590157",
+            "id": "9590157",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/hY7ntBiT4uZA336RCrPM",
+            "duration": {
+              "seconds": 506,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Joining Across Databases",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590159",
+            "id": "9590159",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ZVA3HPtARN22cYYszzau",
+            "duration": {
+              "seconds": 167,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Self Joins",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590152",
+            "id": "9590152",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/IBey0ZB3ReuSbQDvVRAC",
+            "duration": {
+              "seconds": 253,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Joining Multiple Tables",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590163",
+            "id": "9590163",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/1HQDVu8FQ5m284erWn4C",
+            "duration": {
+              "seconds": 406,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Compound Join Conditions",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590161",
+            "id": "9590161",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/FIrJi6qUQmifS9apm7kQ",
+            "duration": {
+              "seconds": 221,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Implicit Join Syntax",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590158",
+            "id": "9590158",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/7V0IYw3ZRJWGdl6q4py6",
+            "duration": {
+              "seconds": 140,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Outer Joins",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590155",
+            "id": "9590155",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Dr9yciAbQvWdbx4cQmiG",
+            "duration": {
+              "seconds": 387,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Outer Join Between Multiple Tables",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590154",
+            "id": "9590154",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/4QoSSoSSvDyMCcSjI3g1",
+            "duration": {
+              "seconds": 378,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Self Outer Joins",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590153",
+            "id": "9590153",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/TnyiEO2PSyaH1HdsPa6e",
+            "duration": {
+              "seconds": 132,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- The USING Clause",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590162",
+            "id": "9590162",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/9989TtEgTi2L0Bsye0Oq",
+            "duration": {
+              "seconds": 322,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "11- Natural Joins",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590164",
+            "id": "9590164",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/GSmcSIcLTveIsGDv1UXY",
+            "duration": {
+              "seconds": 81,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "12- Cross Joins",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590160",
+            "id": "9590160",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/NZEjbMqdSfqwjY4hgcjg",
+            "duration": {
+              "seconds": 194,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "13- Unions",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590156",
+            "id": "9590156",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/aPeBG6ZRmqD9WS9xzgAS",
+            "duration": {
+              "seconds": 509,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "A Quick Note",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9591439",
+            "id": "9591439",
+            "courseId": "525068",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "4- Inserting, Updating, and Deleting Data",
+        "duration": {
+          "seconds": 2543,
+          "nanos": 0
+        },
+        "moduleNumber": 4.0,
+        "lectures": [
+          {
+            "name": "1- Column Attributes",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590180",
+            "id": "9590180",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/uIskliPSc6NlSIqvdR1n",
+            "duration": {
+              "seconds": 204,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Inserting a Row",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590183",
+            "id": "9590183",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/DKFjqDnQS65UA0gl138S",
+            "duration": {
+              "seconds": 346,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Inserting Multiple Rows",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590182",
+            "id": "9590182",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/JXkzxnGUSwO8IQ9rszfM",
+            "duration": {
+              "seconds": 198,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Inserting Hierarchical Rows",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590188",
+            "id": "9590188",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/hi53c1sFR86SUPqMtJxS",
+            "duration": {
+              "seconds": 353,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Creating a Copy of a Table",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590187",
+            "id": "9590187",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/PFyogbmSvyA7ZZ0sg8mB",
+            "duration": {
+              "seconds": 527,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Updating a Single Row",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590185",
+            "id": "9590185",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/rDiGvj8BS6yuxJrQEEXp",
+            "duration": {
+              "seconds": 235,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Updating Multiple Rows",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590179",
+            "id": "9590179",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/iMQoSgWiT0W0PDhylQ5d",
+            "duration": {
+              "seconds": 194,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Using Subqueries in Updates",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590186",
+            "id": "9590186",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/n7gn92JyR9aU7ao3mjy6",
+            "duration": {
+              "seconds": 336,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Deleting Rows",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590181",
+            "id": "9590181",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/rd4RjzAXRxCF16NMmGWJ",
+            "duration": {
+              "seconds": 84,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- Restoring the Databases",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590184",
+            "id": "9590184",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/gjBExioSNaguKV9KIIPL",
+            "duration": {
+              "seconds": 66,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "5- Summarizing Data",
+        "duration": {
+          "seconds": 1835,
+          "nanos": 0
+        },
+        "moduleNumber": 5.0,
+        "lectures": [
+          {
+            "name": "1- Aggregate Functions",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590223",
+            "id": "9590223",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Y4d4bm82SFmcEmY8K5zq",
+            "duration": {
+              "seconds": 559,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- The GROUP BY Clause",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590220",
+            "id": "9590220",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/pYoBRcB7TiiPSckNJtdD",
+            "duration": {
+              "seconds": 441,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- The HAVING Clause",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590222",
+            "id": "9590222",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/6Q25rISJSk6Gr7Slpr9B",
+            "duration": {
+              "seconds": 530,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- The ROLLUP Operator",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590221",
+            "id": "9590221",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ycgBjlIR8qMZKt643XJd",
+            "duration": {
+              "seconds": 305,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "A Quick Note",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9591458",
+            "id": "9591458",
+            "courseId": "525068",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "6- Writing Complex Query",
+        "duration": {
+          "seconds": 2333,
+          "nanos": 0
+        },
+        "moduleNumber": 6.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590240",
+            "id": "9590240",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/tcNW6j2ZREOex5lTsgkN",
+            "duration": {
+              "seconds": 88,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Subqueries",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590237",
+            "id": "9590237",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/eeZvMEMSWCIUpLu2gIZh",
+            "duration": {
+              "seconds": 149,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- The IN Operator",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590235",
+            "id": "9590235",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/6v0fJ4YQ4G7YuvGgdiXw",
+            "duration": {
+              "seconds": 219,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Subqueries vs Joins",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590241",
+            "id": "9590241",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Cnl47angSTi9uB584nrn",
+            "duration": {
+              "seconds": 307,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- The ALL Keyword",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590248",
+            "id": "9590248",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/mnZiLoTsT2aVElndVpsb",
+            "duration": {
+              "seconds": 292,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- The ANY Keyword",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590246",
+            "id": "9590246",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/2QiFv9BgQ8mYbAy4NW4n",
+            "duration": {
+              "seconds": 156,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Correlated Subqueries",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590242",
+            "id": "9590242",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/lTNUERPUSSmTrhi2t3yY",
+            "duration": {
+              "seconds": 336,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- The EXISTS Operator",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590236",
+            "id": "9590236",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/2iCxM6BeTPKUCOQXppFV",
+            "duration": {
+              "seconds": 339,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Subqueries in the SELECT Clause",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590238",
+            "id": "9590238",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/n8tt9x3SWiDp6IUC5BlW",
+            "duration": {
+              "seconds": 269,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- Subqueries in the FROM Clause",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590239",
+            "id": "9590239",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Jvsr0PZSHSm1Je1CIQhA",
+            "duration": {
+              "seconds": 178,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "7- Essential MySQL Functions",
+        "duration": {
+          "seconds": 1917,
+          "nanos": 0
+        },
+        "moduleNumber": 7.0,
+        "lectures": [
+          {
+            "name": "1- Numeric Functions",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590264",
+            "id": "9590264",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/1fjrtIfQGOthOU9aSzpw",
+            "duration": {
+              "seconds": 174,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- String Functions",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590262",
+            "id": "9590262",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/8PtbVQ2iSYywy0etHZLP",
+            "duration": {
+              "seconds": 347,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Date Functions in MySQL",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590261",
+            "id": "9590261",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/aeZx5xTSxeD1BtpG0PNr",
+            "duration": {
+              "seconds": 248,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Formatting Dates and Times",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590266",
+            "id": "9590266",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/nCIAvEXQKqOBAoZCpqH8",
+            "duration": {
+              "seconds": 134,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Calculating Dates and Times",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590267",
+            "id": "9590267",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/hbMnInuTlm5vrD8O5MqU",
+            "duration": {
+              "seconds": 188,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- The IFNULL and COALESCE Functions",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590263",
+            "id": "9590263",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/wRaiqu0gRwiy3jSFYt98",
+            "duration": {
+              "seconds": 209,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- The IF Function",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590265",
+            "id": "9590265",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ivz92JwQc6IZAc24VXA3",
+            "duration": {
+              "seconds": 294,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- The CASE Operator",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590268",
+            "id": "9590268",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/j3N3FSzXSlKZgGoIPm7j",
+            "duration": {
+              "seconds": 323,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "8- Views",
+        "duration": {
+          "seconds": 1115,
+          "nanos": 0
+        },
+        "moduleNumber": 8.0,
+        "lectures": [
+          {
+            "name": "1- Creating Views",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590280",
+            "id": "9590280",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/JHyM7ftLQAecvm5Rjmuf",
+            "duration": {
+              "seconds": 336,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Altering or Dropping Views",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590284",
+            "id": "9590284",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/02n33vhnRb6ugCneaDyf",
+            "duration": {
+              "seconds": 172,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Updatable Views",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590281",
+            "id": "9590281",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/llkU1YtUTNiaviw4043G",
+            "duration": {
+              "seconds": 312,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- THE WITH OPTION CHECK Clause",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590283",
+            "id": "9590283",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/kXM6pmA4QkuNE6I4GI25",
+            "duration": {
+              "seconds": 138,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Other Benefits of Views",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590282",
+            "id": "9590282",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/5puwiNApRPSz4gNxtTlH",
+            "duration": {
+              "seconds": 157,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "9- Stored Procedures",
+        "duration": {
+          "seconds": 2913,
+          "nanos": 0
+        },
+        "moduleNumber": 9.0,
+        "lectures": [
+          {
+            "name": "1- What are Stored Procedures",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590329",
+            "id": "9590329",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/iBVmcVLOQy6qnx2HTyDY",
+            "duration": {
+              "seconds": 138,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Creating a Stored Procedure",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590330",
+            "id": "9590330",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Jzs27BhRQK9HmJv2Es6P",
+            "duration": {
+              "seconds": 334,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Creating Procedures Using MySQLWorkbench",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590333",
+            "id": "9590333",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/1VkiMkWS0aGOXsIPaInf",
+            "duration": {
+              "seconds": 81,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Dropping Stored Procedures",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590331",
+            "id": "9590331",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/aGeG28TdQiGuKg3bDa2j",
+            "duration": {
+              "seconds": 129,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Parameters",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590334",
+            "id": "9590334",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/HVetPzUwQKc9Txh0revQ",
+            "duration": {
+              "seconds": 326,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Parameters with Default Value",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590337",
+            "id": "9590337",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/VMyzZI5ASXCYJn3fHq5g",
+            "duration": {
+              "seconds": 498,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Parameter Validation",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590335",
+            "id": "9590335",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ZIMBoDe3SMOq9iJl0oVS",
+            "duration": {
+              "seconds": 400,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Output Parameters",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590338",
+            "id": "9590338",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/tnzNYYzhQaKVOJNhjNEj",
+            "duration": {
+              "seconds": 235,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Variables",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590332",
+            "id": "9590332",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/df8EhVOScejoxnAhIPNS",
+            "duration": {
+              "seconds": 273,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- Functions",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590340",
+            "id": "9590340",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/qNExIzj4RwiGuLmn96IB",
+            "duration": {
+              "seconds": 388,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "11- Other Conventions",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9590336",
+            "id": "9590336",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/b4MGqYrNRayX2zNCU5Mq",
+            "duration": {
+              "seconds": 111,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "A Quick Note",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9591462",
+            "id": "9591462",
+            "courseId": "525068",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "10- Triggers and Events",
+        "duration": {
+          "seconds": 1272,
+          "nanos": 0
+        },
+        "moduleNumber": 10.0,
+        "lectures": [
+          {
+            "name": "1- Triggers",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9707196",
+            "id": "9707196",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/38cJgPopR1SG6sPZUukr",
+            "duration": {
+              "seconds": 451,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Viewing Triggers",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9707200",
+            "id": "9707200",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Vz9aWbXJSbqKfYOKQimP",
+            "duration": {
+              "seconds": 80,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Dropping Triggers",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9707201",
+            "id": "9707201",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/lHyty2IQmaHBnmxCFxLg",
+            "duration": {
+              "seconds": 52,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Using Triggers for Auditing",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9707199",
+            "id": "9707199",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/8fi93kwnR4mfwzTFcJfq",
+            "duration": {
+              "seconds": 292,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Events",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9707198",
+            "id": "9707198",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/pgr5U3OSTbW00jR26WoY",
+            "duration": {
+              "seconds": 273,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Viewing, Dropping and Altering Events",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9707197",
+            "id": "9707197",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/wUvXfm3xRlSYAxZLXn7n",
+            "duration": {
+              "seconds": 124,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "11- Transactions and Concurrency",
+        "duration": {
+          "seconds": 2614,
+          "nanos": 0
+        },
+        "moduleNumber": 11.0,
+        "lectures": [
+          {
+            "name": "1- Transactions",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9710684",
+            "id": "9710684",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ruf3lOFVTjSFMjRblBCo",
+            "duration": {
+              "seconds": 164,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Creating Transactions",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9710690",
+            "id": "9710690",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/CziyLu7ATuisDZAullIH",
+            "duration": {
+              "seconds": 311,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Concurrency and Locking",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9710683",
+            "id": "9710683",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/hUozcpY0TgWOalajgbnK",
+            "duration": {
+              "seconds": 247,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Concurrency Problems",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9710689",
+            "id": "9710689",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/9g1OUcF0TLaPMJwW4cEC",
+            "duration": {
+              "seconds": 445,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Transaction Isolation Levels",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9710687",
+            "id": "9710687",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/yAITG7hiTEuKJEALGTue",
+            "duration": {
+              "seconds": 342,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- READ UNCOMMITTED Isolation Level",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9710688",
+            "id": "9710688",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/G8rCeSAqRYeRp96hlfOM",
+            "duration": {
+              "seconds": 206,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- READ COMMITTED Isolation Level",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9710691",
+            "id": "9710691",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/2lMQB6RP6IlwdIeu9jZw",
+            "duration": {
+              "seconds": 181,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- REPEATABLE READ Isolation Level",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9710685",
+            "id": "9710685",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/dd1625ZvTsOmWGWMak2Q",
+            "duration": {
+              "seconds": 209,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- SERIALIZABLE Isolation Level",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9710686",
+            "id": "9710686",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/46sk98JTfmnjyErMSqiG",
+            "duration": {
+              "seconds": 138,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- Deadlocks",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9710692",
+            "id": "9710692",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/l96QpHYKT1ayaHytZ7EW",
+            "duration": {
+              "seconds": 371,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "12- Data Types",
+        "duration": {
+          "seconds": 1469,
+          "nanos": 0
+        },
+        "moduleNumber": 12.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9780497",
+            "id": "9780497",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/nqGXJXwmQ6yEbn0UjuoG",
+            "duration": {
+              "seconds": 43,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- String Types",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9780500",
+            "id": "9780500",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/DAvKiAxRGayPcXMz1uzA",
+            "duration": {
+              "seconds": 145,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Integer Types",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9780492",
+            "id": "9780492",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/BuW65TUvRoihmlWtK5z0",
+            "duration": {
+              "seconds": 172,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Fixed-point and Floating-point Types",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9780494",
+            "id": "9780494",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/lLLYsgnZREeJrGQZCAog",
+            "duration": {
+              "seconds": 102,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Boolean Types",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9780498",
+            "id": "9780498",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/h6c7J70ZTUBy1GFtUPLQ",
+            "duration": {
+              "seconds": 46,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Enum and Set Types",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9780499",
+            "id": "9780499",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/mcrK47MReOBBWfGOChPj",
+            "duration": {
+              "seconds": 216,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Date and Time Types",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9780495",
+            "id": "9780495",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/JGnJq7l3Tzaqh3zSIZQH",
+            "duration": {
+              "seconds": 44,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Blob Types",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9780496",
+            "id": "9780496",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/l6W4rCWdQAKyLAqs8PaB",
+            "duration": {
+              "seconds": 77,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- JSON Type",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9780493",
+            "id": "9780493",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ctpdVDRRKG5MefbAiolA",
+            "duration": {
+              "seconds": 624,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "13- Designing Databases",
+        "duration": {
+          "seconds": 7725,
+          "nanos": 0
+        },
+        "moduleNumber": 13.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880339",
+            "id": "9880339",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/keTf9ZURTJCOudeAChjD",
+            "duration": {
+              "seconds": 85,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Data Modelling",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880355",
+            "id": "9880355",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/HJsdwLeqRm2MvqtVj546",
+            "duration": {
+              "seconds": 146,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Conceptual Models",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880358",
+            "id": "9880358",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/TSNqlSwjTbqw7kyHMXZa",
+            "duration": {
+              "seconds": 274,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Logical Models",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880364",
+            "id": "9880364",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Yv7WurJVRlujbwLC22Qq",
+            "duration": {
+              "seconds": 444,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Physical Models",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880361",
+            "id": "9880361",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/5HsFq7PBTADr7V7Bay3W",
+            "duration": {
+              "seconds": 387,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Primary Keys",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880352",
+            "id": "9880352",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/iSTYBwH3SrKLGylSW3j0",
+            "duration": {
+              "seconds": 203,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Foreign Keys",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880351",
+            "id": "9880351",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/JPy3STfSJaVyWD0TCF3H",
+            "duration": {
+              "seconds": 348,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Foreign Key Constraints",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880366",
+            "id": "9880366",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/TxRZPabTQaWaG2B3HW3k",
+            "duration": {
+              "seconds": 322,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Normalization",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880353",
+            "id": "9880353",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/o7XxXxC5RGSeymwGgB54",
+            "duration": {
+              "seconds": 84,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- 1NF- First Normal Form",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880348",
+            "id": "9880348",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/pOieXFBTwu4lSPVA1oUX",
+            "duration": {
+              "seconds": 162,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "11- Link Tables",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880360",
+            "id": "9880360",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/g71Bstb2QlyaKyfqkNr6",
+            "duration": {
+              "seconds": 241,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "12- 2NF- Second Normal Form",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880354",
+            "id": "9880354",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/It7zbGHlRu2obzW2Qo1D",
+            "duration": {
+              "seconds": 392,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "13- 3NF- Third Normal Form",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880342",
+            "id": "9880342",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Q5nE8pqhSVyjgXLhga43",
+            "duration": {
+              "seconds": 103,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "14- My Pragmatic Advice",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880345",
+            "id": "9880345",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/cJlRTnTug7qz4vq0h2ge",
+            "duration": {
+              "seconds": 175,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "15- Don\u0027t Model the Universe",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880344",
+            "id": "9880344",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/RIXVCkKT72USfJ90b7mw",
+            "duration": {
+              "seconds": 264,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "16- Forward Engineering a Model",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880338",
+            "id": "9880338",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/KSSlQn6rTUKX6GDNeVOk",
+            "duration": {
+              "seconds": 155,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "17- Synchronizing a Model with a Database",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880350",
+            "id": "9880350",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/bgH5rOIJQJyc7AYI6eRS",
+            "duration": {
+              "seconds": 288,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "18- Reverse Engineering a Database",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880356",
+            "id": "9880356",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/4JOeADriQZGzuh4Jhj3D",
+            "duration": {
+              "seconds": 191,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "19- Project- Flight Booking System",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880362",
+            "id": "9880362",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/giDMRGzGQwuakOl8nBJR",
+            "duration": {
+              "seconds": 23,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "20- Solution- Conceptual Model",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880346",
+            "id": "9880346",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/bjpSmY2vQruXqvjVDiJv",
+            "duration": {
+              "seconds": 479,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "21- Solution- Logical Model",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880363",
+            "id": "9880363",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/82yoUzQE61yBi2RxSmw6",
+            "duration": {
+              "seconds": 543,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "22- Project - Video Rental Application",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880368",
+            "id": "9880368",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/5VcSflWTG2h391pnV4Q9",
+            "duration": {
+              "seconds": 65,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "23- Solution- Conceptual Model",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880340",
+            "id": "9880340",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/t6Eu0KzaRTefQ7aoYun0",
+            "duration": {
+              "seconds": 419,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "24- Solution- Logical Model",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880367",
+            "id": "9880367",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/3B3JPGKtT5iSymoTbCVD",
+            "duration": {
+              "seconds": 509,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "25- Creating and Dropping Databases",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880347",
+            "id": "9880347",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/f41iz5o7Qj2WAiFktNSn",
+            "duration": {
+              "seconds": 101,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "26- Creating Tables",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880365",
+            "id": "9880365",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/P6zEj7zTQydcjVxTXMiA",
+            "duration": {
+              "seconds": 193,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "27- Altering Tables",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880343",
+            "id": "9880343",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ERvFUsLFQuWnC4QJR3sY",
+            "duration": {
+              "seconds": 176,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "28- Creating Relationships",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880349",
+            "id": "9880349",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/pKn0MklJTXSHZVLq0Exl",
+            "duration": {
+              "seconds": 287,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "29- Altering Primary and Foreign Key Constraints",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880357",
+            "id": "9880357",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/vJyiK8g5RbaJxjhEqgnE",
+            "duration": {
+              "seconds": 130,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "30- Character Sets and Collations",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880341",
+            "id": "9880341",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/okaZhhCTe6fdR5jRqgBJ",
+            "duration": {
+              "seconds": 389,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "31- Storage Engines",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880359",
+            "id": "9880359",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/zhWbO3mfTuSqxMELCT9y",
+            "duration": {
+              "seconds": 147,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "A Quick Note",
+            "url": "https://codewithmosh.com/courses/525068/lectures/9880518",
+            "id": "9880518",
+            "courseId": "525068",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "14- Indexing for High Performance",
+        "duration": {
+          "seconds": 3195,
+          "nanos": 0
+        },
+        "moduleNumber": 14.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096054",
+            "id": "10096054",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Ms7CHvs6Qz67FzPdX8rD",
+            "duration": {
+              "seconds": 41,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Indexes",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096055",
+            "id": "10096055",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/OAAlsKtBTSaRrmS0Op5x",
+            "duration": {
+              "seconds": 169,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Creating Indexes",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096058",
+            "id": "10096058",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/hbOJOyrQMOpeQzDjX0BY",
+            "duration": {
+              "seconds": 300,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Viewing Indexes",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096061",
+            "id": "10096061",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/LqqaAQGZShOMsA2yUuUy",
+            "duration": {
+              "seconds": 199,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Prefix Indexes",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096056",
+            "id": "10096056",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/zKGU9TfGSK6gEhbDYi1V",
+            "duration": {
+              "seconds": 220,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Full-text Indexes",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096060",
+            "id": "10096060",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/LjlB60NQMm9GhgaQ6vbF",
+            "duration": {
+              "seconds": 470,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Composite Indexes",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096059",
+            "id": "10096059",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/2mFxBpPeRFavJuU6zaeB",
+            "duration": {
+              "seconds": 312,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Order of Columns in Composite Indexes",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096051",
+            "id": "10096051",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/uPOxoNSTJi7tjLj63F6E",
+            "duration": {
+              "seconds": 556,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- When Indexes are Ignored",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096062",
+            "id": "10096062",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/rUNbPS1GRB27pE7Ts5a9",
+            "duration": {
+              "seconds": 303,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- Using Indexes for Sorting",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096052",
+            "id": "10096052",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/o2VbnK0hQnud5HrTgAqL",
+            "duration": {
+              "seconds": 422,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "11- Covering Indexese",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096053",
+            "id": "10096053",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/outsRGwGSk2CRuXChfwK",
+            "duration": {
+              "seconds": 118,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "12- Index Maintenance",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096050",
+            "id": "10096050",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/QO8p66U1QLuQEuNHMw7o",
+            "duration": {
+              "seconds": 85,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "13- Performance Best Practices",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10096057",
+            "id": "10096057",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/u23GUw7eSAKrj84hChLA",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "15- Securing Databases",
+        "duration": {
+          "seconds": 939,
+          "nanos": 0
+        },
+        "moduleNumber": 15.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10108074",
+            "id": "10108074",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/tviZ2lB5S6G4awr9U1hT",
+            "duration": {
+              "seconds": 33,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Creating a User",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10108075",
+            "id": "10108075",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/9PfqzEQSu6DVpNHfx82g",
+            "duration": {
+              "seconds": 192,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Viewing Users",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10108081",
+            "id": "10108081",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/tRTi79N6R6GgHKoW7gcr",
+            "duration": {
+              "seconds": 89,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Dropping Users",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10108080",
+            "id": "10108080",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/HAcYb6HQ8WAVnGxecGrw",
+            "duration": {
+              "seconds": 48,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Changing Passwords",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10108079",
+            "id": "10108079",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/TOKmWq5bQCeHLRCMwITV",
+            "duration": {
+              "seconds": 66,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Granting Privileges",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10108076",
+            "id": "10108076",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/DwL029C6QA2b7ACHP6dl",
+            "duration": {
+              "seconds": 293,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Viewing Privileges",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10108078",
+            "id": "10108078",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/MXRiD1oKRm281sbhXTs2",
+            "duration": {
+              "seconds": 94,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Revoking Privileges",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10108077",
+            "id": "10108077",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/fA6fBC41T2uWqtSLBqdN",
+            "duration": {
+              "seconds": 80,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Wrap Up",
+            "url": "https://codewithmosh.com/courses/525068/lectures/10142300",
+            "id": "10142300",
+            "courseId": "525068",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/eEGsbl82S1uEYoHpoieH",
+            "duration": {
+              "seconds": 44,
+              "nanos": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1359863",
+    "name": "The Ultimate Docker Course",
+    "url": "https://codewithmosh.com/courses/enrolled/1359863",
+    "number": 5.0,
+    "duration": {
+      "seconds": 0,
+      "nanos": 0
+    },
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "MUST",
+    "modules": []
+  },
+  {
+    "id": "1120640",
+    "name": "The Ultimate Git Course",
+    "url": "https://codewithmosh.com/courses/enrolled/1120640",
+    "number": 6.0,
+    "duration": {
+      "seconds": 18606,
+      "nanos": 0
+    },
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "MUST",
+    "modules": [
+      {
+        "name": "1- Getting Started",
+        "duration": {
+          "seconds": 895,
+          "nanos": 0
+        },
+        "moduleNumber": 1.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393589",
+            "id": "24393589",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ko2n9UqRQn6zlY694FwA",
+            "duration": {
+              "seconds": 39,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- How to Take This Course",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393585",
+            "id": "24393585",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/1QbmyBoSmKwqILrC8DtT",
+            "duration": {
+              "seconds": 51,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- What is Git",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393586",
+            "id": "24393586",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/2tKo5V0USzacnJnnF9ET",
+            "duration": {
+              "seconds": 151,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Using Git",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393591",
+            "id": "24393591",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/NFMaXlOTEaLKvZgeNG2g",
+            "duration": {
+              "seconds": 183,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Installing Git",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393587",
+            "id": "24393587",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/B6jpYi9yTVWAiEPqDoY3",
+            "duration": {
+              "seconds": 87,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Configuring Git",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393590",
+            "id": "24393590",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/4QBla7RRqKzd4WLvqruw",
+            "duration": {
+              "seconds": 304,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Getting Help",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393584",
+            "id": "24393584",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/nSexZukOS37nTHx8pok0",
+            "duration": {
+              "seconds": 51,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Cheat Sheet",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393588",
+            "id": "24393588",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/8C3V1SLNSSecGfSDId3Z",
+            "duration": {
+              "seconds": 29,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Follow Me Around",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/25353350",
+            "id": "25353350",
+            "courseId": "1120640",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- Learning Paths",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/34609896",
+            "id": "34609896",
+            "courseId": "1120640",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "2- Creating Snapshots",
+        "duration": {
+          "seconds": 3535,
+          "nanos": 0
+        },
+        "moduleNumber": 2.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393754",
+            "id": "24393754",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/dv6HhnHTOSKT5sm8tQsT",
+            "duration": {
+              "seconds": 34,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Initializing a Repository",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393749",
+            "id": "24393749",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/fKsVqIxzTBW6xPwCHDSS",
+            "duration": {
+              "seconds": 152,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Git Workflow",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393738",
+            "id": "24393738",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Z092oB2NTA2LvMQQ5tob",
+            "duration": {
+              "seconds": 275,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Staging Files",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393736",
+            "id": "24393736",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ktHZYxc2Sj2cSe80AsVH",
+            "duration": {
+              "seconds": 217,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Committing Changes",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393746",
+            "id": "24393746",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/sqBXTiQR6jTEBBqD2IuQ",
+            "duration": {
+              "seconds": 133,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Committing Best Practices",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393752",
+            "id": "24393752",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/sJXPD1HGSjuM3hRnbujP",
+            "duration": {
+              "seconds": 119,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Skipping the Staging Area",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393750",
+            "id": "24393750",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/tBvynJOmRjOJcULOzlLw",
+            "duration": {
+              "seconds": 84,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Removing Files",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393753",
+            "id": "24393753",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/yoTaJNRnQfGjsRlQyY19",
+            "duration": {
+              "seconds": 122,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Renaming or Moving Files",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393751",
+            "id": "24393751",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/XKRM2NivRS2nOEVpGjxA",
+            "duration": {
+              "seconds": 137,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- Ignoring Files",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393740",
+            "id": "24393740",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/2XHmppEmRe2kjdMO8nmx",
+            "duration": {
+              "seconds": 394,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "11- Short Status",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393743",
+            "id": "24393743",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/WXLI0L9TTZmZUcSq3GP7",
+            "duration": {
+              "seconds": 172,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "12- Viewing Staged and Unstaged Changes",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393744",
+            "id": "24393744",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/EGxWa1wZRTpkxB7PFKc3",
+            "duration": {
+              "seconds": 299,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "13- Visual Diff Tools",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393739",
+            "id": "24393739",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/3Sv5kp3yQLCpYniBc6LJ",
+            "duration": {
+              "seconds": 293,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "14- Viewing History",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393748",
+            "id": "24393748",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/KOAV7faLRMOYAP4GKSxf",
+            "duration": {
+              "seconds": 132,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "15- Viewing a Commit",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393741",
+            "id": "24393741",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/u0T7bIqzSkKzTkC5yM4C",
+            "duration": {
+              "seconds": 238,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "16- Unstaging Files",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393737",
+            "id": "24393737",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/HmEhVUt1QlG48bBph5Io",
+            "duration": {
+              "seconds": 170,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "17- Discarding Local Changes",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393745",
+            "id": "24393745",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/qrR6RRLfSBat8KhgPmSd",
+            "duration": {
+              "seconds": 108,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "18- Restoring a File to an Earlier Version",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393747",
+            "id": "24393747",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/qoc27PpwRXmveFpp1b0f",
+            "duration": {
+              "seconds": 136,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "19- Creating Snapshots with VSCode",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393742",
+            "id": "24393742",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/qw8FZApJRmmHFEf6NhVn",
+            "duration": {
+              "seconds": 116,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "20- Creating Snapshots with GitKraken",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393755",
+            "id": "24393755",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/JCsTYy7PSjq7v5s6m3zj",
+            "duration": {
+              "seconds": 204,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "21- Summary",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393894",
+            "id": "24393894",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/HGwpD5UZQ3ajgSdhmuuF",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "22- Exercises",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24393911",
+            "id": "24393911",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Fxqh91QRuiSGQnH7lpVg",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "3- Browsing History",
+        "duration": {
+          "seconds": 2624,
+          "nanos": 0
+        },
+        "moduleNumber": 3.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394023",
+            "id": "24394023",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/g92bSnKiQrqGY3JSLJBQ",
+            "duration": {
+              "seconds": 48,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Getting a Repository",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394028",
+            "id": "24394028",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/g5xDUQQDS82ZGHl2rns7",
+            "duration": {
+              "seconds": 32,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Viewing the History",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394034",
+            "id": "24394034",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/PwHlaImQev8uDqkKwkyw",
+            "duration": {
+              "seconds": 142,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Filtering the History",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394027",
+            "id": "24394027",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/tNVLlIvSpmaZpWV7uuSA",
+            "duration": {
+              "seconds": 294,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Formatting the Log Output",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394024",
+            "id": "24394024",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/FwRIL3ClRXmdzls9Wqqv",
+            "duration": {
+              "seconds": 205,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Aliases",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394031",
+            "id": "24394031",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/jofbKPRSgWia0VG5tyGw",
+            "duration": {
+              "seconds": 137,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Viewing a Commit",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394035",
+            "id": "24394035",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ZZDjPPPMSAmwa2TJJNqa",
+            "duration": {
+              "seconds": 133,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Viewing the Changes Across Commits",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394030",
+            "id": "24394030",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/jcPlCzGTRi2L0hsxmEIb",
+            "duration": {
+              "seconds": 76,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Checking Out a Commit",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394037",
+            "id": "24394037",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/DEBl86kFQkCjeJMLw0FC",
+            "duration": {
+              "seconds": 220,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- Finding Bugs Using Bisect",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394025",
+            "id": "24394025",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/9sLpclY8Slm75ztedsrm",
+            "duration": {
+              "seconds": 268,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "11- Finding Contributors Using Shortlog",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394032",
+            "id": "24394032",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/T4mh4rptSM2BguPvUO9g",
+            "duration": {
+              "seconds": 78,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "12- Viewing the History of a File",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394029",
+            "id": "24394029",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/xn9ysdETVuvkezbaJa0b",
+            "duration": {
+              "seconds": 68,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "13- Restoring a Deleting File",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394022",
+            "id": "24394022",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/RNufiKsQp2VosopnWhhr",
+            "duration": {
+              "seconds": 128,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "14- Finding the Author of Line Using Blame",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394033",
+            "id": "24394033",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/IMPVMjjUTjmrOohc08OS",
+            "duration": {
+              "seconds": 68,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "15- Tagging",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394041",
+            "id": "24394041",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ld9bl7WzQ5SgzI2STQLZ",
+            "duration": {
+              "seconds": 161,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "16- Browsing History Using VSCode",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394026",
+            "id": "24394026",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/edxNliP3Q2i9rOltLX06",
+            "duration": {
+              "seconds": 265,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "17- Browsing the History Using GitKraken",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394021",
+            "id": "24394021",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/fRajAJHzTKemLcmzE40U",
+            "duration": {
+              "seconds": 301,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "18- Summary",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394103",
+            "id": "24394103",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/IXNNfhG9RYKUK1ExLzWq",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "19- Exercises",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394131",
+            "id": "24394131",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/5AkLPmn4QIe0RypLwgPA",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "A Quick Note",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394784",
+            "id": "24394784",
+            "courseId": "1120640",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "4- Branching",
+        "duration": {
+          "seconds": 4625,
+          "nanos": 0
+        },
+        "moduleNumber": 4.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394230",
+            "id": "24394230",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/tiM6rJwHQp6QcHT5eks8",
+            "duration": {
+              "seconds": 42,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- What are Branches",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394225",
+            "id": "24394225",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/jcwf3rjuS1AfD1tLY5QK",
+            "duration": {
+              "seconds": 158,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Getting a Repository",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394229",
+            "id": "24394229",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/oLvNq5eUT5iFcMkab8GA",
+            "duration": {
+              "seconds": 18,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Working with Branches",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394232",
+            "id": "24394232",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/77FvAz44ReFIQUbq6qhG",
+            "duration": {
+              "seconds": 312,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Comparing Branches",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394218",
+            "id": "24394218",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/bUUKQYfQbW6aZ3FxM1mQ",
+            "duration": {
+              "seconds": 112,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Stashing",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394215",
+            "id": "24394215",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/eU4p9rXToimWfo7f40Yq",
+            "duration": {
+              "seconds": 244,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Merging",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394222",
+            "id": "24394222",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Buhqv4D2RRmwji8FUnA7",
+            "duration": {
+              "seconds": 201,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Fast-forward Merges",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394216",
+            "id": "24394216",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/qApZhd5nSn62mRiDl4YQ",
+            "duration": {
+              "seconds": 414,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Three-way Merges",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394219",
+            "id": "24394219",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/c6a3G28dTsW90gRwYhCw",
+            "duration": {
+              "seconds": 196,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- Viewing Merged and Unmerged Branches",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394224",
+            "id": "24394224",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/UU8URvMRECq3qqfh84iw",
+            "duration": {
+              "seconds": 68,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "11- Merge Conflicts",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394217",
+            "id": "24394217",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/mchtlByPRbeDoD7KmmHC",
+            "duration": {
+              "seconds": 334,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "12 - Graphical Merge Tools",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394233",
+            "id": "24394233",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/wrAzvIWdQJmiRzu3Ixrf",
+            "duration": {
+              "seconds": 298,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "13- Aborting a Merge",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394221",
+            "id": "24394221",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/oece07zIRLmts1lKuo0b",
+            "duration": {
+              "seconds": 41,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "14- Undoing a Faulty Merge",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394228",
+            "id": "24394228",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/FGlcIBhOTkerZWjdWpSj",
+            "duration": {
+              "seconds": 326,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "15- Squash Merging",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394227",
+            "id": "24394227",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/CisQbTjcT6mSD8i7IpSc",
+            "duration": {
+              "seconds": 325,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "16- Rebasing",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394220",
+            "id": "24394220",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/qr7U1H7RKUQ6vP5DYqdA",
+            "duration": {
+              "seconds": 504,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "17- Cherry Picking",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394231",
+            "id": "24394231",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/OjHvgYTJR4Wit7nLbqgM",
+            "duration": {
+              "seconds": 114,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "18- Picking a File from Another Branch",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394226",
+            "id": "24394226",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/LLdMOcrhTEa5RbJNjYQy",
+            "duration": {
+              "seconds": 104,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "19- Branching in VSCode",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394214",
+            "id": "24394214",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/M0OMWDc6R3GwNx9eIysy",
+            "duration": {
+              "seconds": 546,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "20- Branching in GitKraken",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394223",
+            "id": "24394223",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/f1kx6QX7Tl66EpXZNqmP",
+            "duration": {
+              "seconds": 268,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "21- Summary",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394407",
+            "id": "24394407",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/trX8U7bFStyHY37Kt90w",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "22- Exercises",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394435",
+            "id": "24394435",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/cR0uAjvCTViCPZnt3oMa",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "A Quick Note",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394788",
+            "id": "24394788",
+            "courseId": "1120640",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "5- Collaboration",
+        "duration": {
+          "seconds": 4175,
+          "nanos": 0
+        },
+        "moduleNumber": 5.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394581",
+            "id": "24394581",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Jyd5pcEQQke3jqzBZXBB",
+            "duration": {
+              "seconds": 46,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Workflows",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394587",
+            "id": "24394587",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/w7zQqT48RKaY1o0ECMZi",
+            "duration": {
+              "seconds": 237,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Creating a GitHub Repository",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394595",
+            "id": "24394595",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/MtI9ZlJ3QwiBhzs95iXr",
+            "duration": {
+              "seconds": 167,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Adding Collaborators",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394592",
+            "id": "24394592",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/glgTB55RhOkNGlIXUB4g",
+            "duration": {
+              "seconds": 63,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Cloning a Repository",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394599",
+            "id": "24394599",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/lIUChdmvTAeA9X96C3Kl",
+            "duration": {
+              "seconds": 172,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Fetching",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394582",
+            "id": "24394582",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/oqEmcGHdTsyH78L0X9sD",
+            "duration": {
+              "seconds": 274,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Pulling",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394588",
+            "id": "24394588",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/eRkncnIHTCCaJ6NUNyZ1",
+            "duration": {
+              "seconds": 227,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Pushing",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394593",
+            "id": "24394593",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/izvTFPGiSxmfXd2LkOyH",
+            "duration": {
+              "seconds": 146,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Storing Credentials",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394590",
+            "id": "24394590",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Tlx4SgBpTimdLHM4RIjF",
+            "duration": {
+              "seconds": 105,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- Sharing Tags",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394589",
+            "id": "24394589",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/TzlkJSpkQe6eb9H70ON9",
+            "duration": {
+              "seconds": 98,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "11- Releases",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394584",
+            "id": "24394584",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ks1qE0o0Q7upLvmdYxo8",
+            "duration": {
+              "seconds": 139,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "12- Sharing Branches",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394586",
+            "id": "24394586",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/GwcyLBl6ToWTLXEEdmqC",
+            "duration": {
+              "seconds": 201,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "13- Collaboration Workflow",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394597",
+            "id": "24394597",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/aShfnGGxQuuyuM0u22bZ",
+            "duration": {
+              "seconds": 403,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "14- Pull Requests",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394594",
+            "id": "24394594",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/viQwQLSQUGjdNL4h1DHx",
+            "duration": {
+              "seconds": 500,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "15- Resolving Conflicts",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394604",
+            "id": "24394604",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/xYciughyShqbDRwyI13D",
+            "duration": {
+              "seconds": 208,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "16- Issues",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394601",
+            "id": "24394601",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/xUhgUJqiRJm8H22L2bGa",
+            "duration": {
+              "seconds": 147,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "17- Labels",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394596",
+            "id": "24394596",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/yNansC9TcCQwVfOffqeb",
+            "duration": {
+              "seconds": 48,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "18- Milestones",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394585",
+            "id": "24394585",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/palLOg3ASviwZAT1pBr9",
+            "duration": {
+              "seconds": 102,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "19- Contributing to Open-source Projects",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394591",
+            "id": "24394591",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/CfOmkbEcQZe2s7E6AogN",
+            "duration": {
+              "seconds": 234,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "20- Keeping a Forked Repository Up to Date",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394598",
+            "id": "24394598",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/gmauAuxcRpS03EVsTP84",
+            "duration": {
+              "seconds": 319,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "21- Collaboration Using VSCode",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394600",
+            "id": "24394600",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Q21kqnOShmeO3P5B4LCA",
+            "duration": {
+              "seconds": 153,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "22- Collaboration Using GitKraken",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394583",
+            "id": "24394583",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/DOSuPSfRJCESK42zYwVm",
+            "duration": {
+              "seconds": 186,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "23- Summary",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394627",
+            "id": "24394627",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/4eCnMHRAOSK3lKRvosAL",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "24- Exercises",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394635",
+            "id": "24394635",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/VqnU5sjTo2gMYLU0Obwr",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "A Quick Note",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394799",
+            "id": "24394799",
+            "courseId": "1120640",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "6- Rewriting History",
+        "duration": {
+          "seconds": 2752,
+          "nanos": 0
+        },
+        "moduleNumber": 6.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394704",
+            "id": "24394704",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/kb9KExFQwqcMPlJbkM0J",
+            "duration": {
+              "seconds": 47,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Why Rewrite History",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394695",
+            "id": "24394695",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/i9U1GfqbQhqS6EYIHOOs",
+            "duration": {
+              "seconds": 79,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- The Golden Rule of Rewriting History",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394702",
+            "id": "24394702",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/qkks4MCdScicHUW9S07n",
+            "duration": {
+              "seconds": 227,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Example of a Bad History",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394693",
+            "id": "24394693",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/5w8prF3pQni55DDmrgeE",
+            "duration": {
+              "seconds": 163,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Undoing Commits",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394690",
+            "id": "24394690",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/5PjkpTVET1KuMC14Tfuc",
+            "duration": {
+              "seconds": 295,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Reverting Commits",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394701",
+            "id": "24394701",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/fBIrJcQMROWlFSEeos9K",
+            "duration": {
+              "seconds": 209,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Recovering Lost Commits",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394694",
+            "id": "24394694",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/WajDL7efSBym6YzFryCz",
+            "duration": {
+              "seconds": 156,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Amending the Last Commit",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394699",
+            "id": "24394699",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/PIQ5Q59KQR2jlrKYInEY",
+            "duration": {
+              "seconds": 218,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Amending an Earlier Commit",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394703",
+            "id": "24394703",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/bwYTUW2S5SpTE9YxBgGp",
+            "duration": {
+              "seconds": 344,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- Dropping Commits",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394700",
+            "id": "24394700",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/joN7V2grSUuCLbxpwXw1",
+            "duration": {
+              "seconds": 268,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "11- Rewording Commit Messages",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394691",
+            "id": "24394691",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/g1wcZe5WSOCMOH2SMRAt",
+            "duration": {
+              "seconds": 103,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "12- Reordering Commits",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394697",
+            "id": "24394697",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/4HtZuAhaS32uFqUN4mWN",
+            "duration": {
+              "seconds": 82,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "13- Squashing Commits",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394708",
+            "id": "24394708",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/xyXtvoAWR0OHzTIdfWnx",
+            "duration": {
+              "seconds": 205,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "14- Splitting a Commit",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394696",
+            "id": "24394696",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/e3HpVIz2QWGWKQxz2FSA",
+            "duration": {
+              "seconds": 201,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "15- Rewriting History Using GitKraken",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394692",
+            "id": "24394692",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/eYWLeJOhSfaBRkt3nB6R",
+            "duration": {
+              "seconds": 128,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "16- Summary",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394728",
+            "id": "24394728",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Yq0Ne6P0STmK74K937ij",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "17- Course Wrap Up",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394698",
+            "id": "24394698",
+            "courseId": "1120640",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/i676KqsTQOE7XJMkcTxQ",
+            "duration": {
+              "seconds": 27,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "Thank You!",
+            "url": "https://codewithmosh.com/courses/1120640/lectures/24394767",
+            "id": "24394767",
+            "courseId": "1120640",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "759570",
+    "name": "The Ultimate Design Patterns: Part 1",
+    "url": "https://codewithmosh.com/courses/enrolled/759570",
+    "number": 30.0,
+    "duration": {
+      "seconds": 14528,
+      "nanos": 0
+    },
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "MUST",
+    "modules": [
+      {
+        "name": "1- Getting Started",
+        "duration": {
+          "seconds": 348,
+          "nanos": 0
+        },
+        "moduleNumber": 1.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732272",
+            "id": "13732272",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/U3XyjB72SPKzVANNA5bW",
+            "duration": {
+              "seconds": 100,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- What are Design Patterns",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732271",
+            "id": "13732271",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ooJkHTKbQJKtXC0V4ZRk",
+            "duration": {
+              "seconds": 154,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- How to Take This Course",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732273",
+            "id": "13732273",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/o1pZvH4jTKipgOw7VQQg",
+            "duration": {
+              "seconds": 94,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Source Code",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732278",
+            "id": "13732278",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/r0da6HXgRc2nLDloOSO7",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Follow Me Around",
+            "url": "https://codewithmosh.com/courses/759570/lectures/25354625",
+            "id": "25354625",
+            "courseId": "759570",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Learning Paths",
+            "url": "https://codewithmosh.com/courses/759570/lectures/34610389",
+            "id": "34610389",
+            "courseId": "759570",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "2- The Essentials",
+        "duration": {
+          "seconds": 2067,
+          "nanos": 0
+        },
+        "moduleNumber": 2.0,
+        "lectures": [
+          {
+            "name": "1- Introduction",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732321",
+            "id": "13732321",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/sPScYxvRQvt05RXucIuH",
+            "duration": {
+              "seconds": 63,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Getting Started with Java",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732322",
+            "id": "13732322",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/u59enVqSRD2kuoWThkQW",
+            "duration": {
+              "seconds": 150,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Classes",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732329",
+            "id": "13732329",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/bTrc1irWSAO0kyUwvB62",
+            "duration": {
+              "seconds": 251,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Coupling",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732327",
+            "id": "13732327",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/mMoLM3hdT9SKE5iRI7Ah",
+            "duration": {
+              "seconds": 119,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Interfaces",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732328",
+            "id": "13732328",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ZJ6A7EMYR4WW8yKlgVum",
+            "duration": {
+              "seconds": 342,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Encapsulation",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732326",
+            "id": "13732326",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/11ZS3JGgTIURUiI5Lujz",
+            "duration": {
+              "seconds": 308,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Abstraction",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732323",
+            "id": "13732323",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/8mFCk5RZSyCT7o4hqAJw",
+            "duration": {
+              "seconds": 247,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "8- Inheritance",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732324",
+            "id": "13732324",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/mnJAcivbTGGkM6fvuKRF",
+            "duration": {
+              "seconds": 142,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "9- Polymorphism",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732325",
+            "id": "13732325",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/EGKxlxgYSZKoZTodwJlf",
+            "duration": {
+              "seconds": 226,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "10- UML",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732320",
+            "id": "13732320",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/L3h0Y3jWS7uGtD5ntmdx",
+            "duration": {
+              "seconds": 219,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "3- Memento Pattern",
+        "duration": {
+          "seconds": 809,
+          "nanos": 0
+        },
+        "moduleNumber": 3.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732393",
+            "id": "13732393",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/TBsViC70TLOknBnHssMF",
+            "duration": {
+              "seconds": 111,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732392",
+            "id": "13732392",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ep3c14lDRFyHh6YtXoPp",
+            "duration": {
+              "seconds": 348,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732390",
+            "id": "13732390",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/BxopCFLZQ9ekWfyk0UZi",
+            "duration": {
+              "seconds": 350,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Exercise",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732391",
+            "id": "13732391",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/KlZsh7veTYG9UlPotYyO",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "4- State Pattern",
+        "duration": {
+          "seconds": 1500,
+          "nanos": 0
+        },
+        "moduleNumber": 4.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732405",
+            "id": "13732405",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/D4t4TAdxTR2B1SuYEeVq",
+            "duration": {
+              "seconds": 323,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732407",
+            "id": "13732407",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/TdOV5PaxSVuNj5QTLUnz",
+            "duration": {
+              "seconds": 193,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732410",
+            "id": "13732410",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/qudn68EKTMm7BbD9dmTY",
+            "duration": {
+              "seconds": 392,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Abusing Patterns",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732408",
+            "id": "13732408",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/K0RIWoS5SrmeAEqOF0ES",
+            "duration": {
+              "seconds": 107,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Abusing the State Pattern",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732409",
+            "id": "13732409",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/djV9ErvLQyaaD8UawlhC",
+            "duration": {
+              "seconds": 485,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Exercise",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732406",
+            "id": "13732406",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/vfagKOK0Sz2Ame33XhHb",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "5- Iterator Pattern",
+        "duration": {
+          "seconds": 1289,
+          "nanos": 0
+        },
+        "moduleNumber": 5.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732430",
+            "id": "13732430",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/VjD6t8YwSReJqo2XYpFQ",
+            "duration": {
+              "seconds": 367,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732431",
+            "id": "13732431",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/8nvunRDxR6akfiiRW38j",
+            "duration": {
+              "seconds": 246,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732429",
+            "id": "13732429",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/qA9SdXZET3SzeI2NGrXv",
+            "duration": {
+              "seconds": 445,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Benefits",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732427",
+            "id": "13732427",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/yAZ74BJQ621BZV1Nye9w",
+            "duration": {
+              "seconds": 231,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Exercise",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732428",
+            "id": "13732428",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/AUmcj5peTcavMA4nbMg1",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- A Quick Note",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13782203",
+            "id": "13782203",
+            "courseId": "759570",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "6- Strategy Pattern",
+        "duration": {
+          "seconds": 835,
+          "nanos": 0
+        },
+        "moduleNumber": 6.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732452",
+            "id": "13732452",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/3chE92CQSrm33PblZFCH",
+            "duration": {
+              "seconds": 278,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732455",
+            "id": "13732455",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/qlYhr27hQPNxn1ilcu22",
+            "duration": {
+              "seconds": 208,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732454",
+            "id": "13732454",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/Ze0llxPSOG9yJ0lzCftg",
+            "duration": {
+              "seconds": 349,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Exercise",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732453",
+            "id": "13732453",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/2MzioxuvRly93EioDLXQ",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "7- Template Method Pattern",
+        "duration": {
+          "seconds": 776,
+          "nanos": 0
+        },
+        "moduleNumber": 7.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732485",
+            "id": "13732485",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ghy0dqo4RVuXFJWuUpog",
+            "duration": {
+              "seconds": 219,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732486",
+            "id": "13732486",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/dDHt1NTEmsevzzQy6YhQ",
+            "duration": {
+              "seconds": 193,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732488",
+            "id": "13732488",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/8rmP7HE4QN6dKXDlSOOO",
+            "duration": {
+              "seconds": 364,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Exercise",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732487",
+            "id": "13732487",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/5nV8iV1TWyzcHxQSQag9",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "8- Command Pattern",
+        "duration": {
+          "seconds": 1737,
+          "nanos": 0
+        },
+        "moduleNumber": 8.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732501",
+            "id": "13732501",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/3RhZoEkSiaUE88gaB9Nn",
+            "duration": {
+              "seconds": 113,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732502",
+            "id": "13732502",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/nvJsmKhZScKL19QL8XHB",
+            "duration": {
+              "seconds": 181,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732500",
+            "id": "13732500",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/G3asPWKQeSkuofwOgOFN",
+            "duration": {
+              "seconds": 271,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Composite Commands",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732499",
+            "id": "13732499",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/i6mwnqvhT9WYUoIBvR2M",
+            "duration": {
+              "seconds": 238,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Undoable Commands",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732503",
+            "id": "13732503",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/oeoLtl6eRP28hnGj8Sxc",
+            "duration": {
+              "seconds": 272,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Implementing Undo Mechanism",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732505",
+            "id": "13732505",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/a0zYWS5ORQOvfNMQXxIM",
+            "duration": {
+              "seconds": 662,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Exercise",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732504",
+            "id": "13732504",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/4ohSxbg2Quq1mlzcOws2",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "9- Observer Pattern",
+        "duration": {
+          "seconds": 1119,
+          "nanos": 0
+        },
+        "moduleNumber": 9.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732536",
+            "id": "13732536",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/oKlj3NTjQ2iytlU1sTDD",
+            "duration": {
+              "seconds": 179,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732538",
+            "id": "13732538",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/vkxnfFBMS0OjwQDLVZ4t",
+            "duration": {
+              "seconds": 249,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732532",
+            "id": "13732532",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/o2yXcteITsWITWeryRek",
+            "duration": {
+              "seconds": 254,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Communication Styles",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732535",
+            "id": "13732535",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/bzcTCImTbybErxr6q1OX",
+            "duration": {
+              "seconds": 184,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- The Push Style",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732534",
+            "id": "13732534",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/AR8WTdARESht4YAdP4Jw",
+            "duration": {
+              "seconds": 116,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- The Pull Style",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732537",
+            "id": "13732537",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/QXSFHaXsR9CLRdLfIMcw",
+            "duration": {
+              "seconds": 137,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "7- Exercise",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732533",
+            "id": "13732533",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/1v1DGRVBTT6gS8CwjhT1",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "10- Mediator Pattern",
+        "duration": {
+          "seconds": 1815,
+          "nanos": 0
+        },
+        "moduleNumber": 10.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732554",
+            "id": "13732554",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/sToL1CYSxecJe3kiTlrl",
+            "duration": {
+              "seconds": 233,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732557",
+            "id": "13732557",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ZONtKB80TdCruIZe3ByZ",
+            "duration": {
+              "seconds": 323,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732555",
+            "id": "13732555",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/JPAHPEpjSFKjyMIY2oKG",
+            "duration": {
+              "seconds": 535,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Using the Observer Pattern",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732559",
+            "id": "13732559",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/BtweaY6nQ7qDL2w7IuC9",
+            "duration": {
+              "seconds": 121,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5- Implementation Using the Observer Pattern",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732558",
+            "id": "13732558",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ugHn6Be9Sdah5uBMnlGn",
+            "duration": {
+              "seconds": 603,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "6- Exercise",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732556",
+            "id": "13732556",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/4ZShC2LGQGWh5qYjo6Wv",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "11- Chain of Responsibility",
+        "duration": {
+          "seconds": 1201,
+          "nanos": 0
+        },
+        "moduleNumber": 11.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732572",
+            "id": "13732572",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/SMEN1psMTCThnUMlyPz9",
+            "duration": {
+              "seconds": 355,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732573",
+            "id": "13732573",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/8p0Bqv12RcSEXmy1RSEP",
+            "duration": {
+              "seconds": 187,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732571",
+            "id": "13732571",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/d75MXmNQXWiuAvkpCp0k",
+            "duration": {
+              "seconds": 659,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Exercise",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732574",
+            "id": "13732574",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/TaDYroeQKaHgyxVooKph",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "12- Visitor Pattern",
+        "duration": {
+          "seconds": 998,
+          "nanos": 0
+        },
+        "moduleNumber": 12.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732616",
+            "id": "13732616",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/smzEv8ajTUSMPcWkrQtY",
+            "duration": {
+              "seconds": 311,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732615",
+            "id": "13732615",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/2crUwT0dSC2rp2C443n7",
+            "duration": {
+              "seconds": 352,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732617",
+            "id": "13732617",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/9MFsLhukRg2bDedLVlVl",
+            "duration": {
+              "seconds": 335,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Exercise",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732614",
+            "id": "13732614",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/2nuqLxpeSaKRknnSyyp8",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "13- Course Wrap Up ",
+        "duration": {
+          "seconds": 34,
+          "nanos": 0
+        },
+        "moduleNumber": 13.0,
+        "lectures": [
+          {
+            "name": "1- Behavioral Patterns Summary",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732650",
+            "id": "13732650",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/DyH44LeyQqXLiB5jObHt",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- What\u0027s Next",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13732651",
+            "id": "13732651",
+            "courseId": "759570",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/9wjOukkAQna9jvFVtZ6y",
+            "duration": {
+              "seconds": 34,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- A Quick Note",
+            "url": "https://codewithmosh.com/courses/759570/lectures/13782208",
+            "id": "13782208",
+            "courseId": "759570",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "760032",
+    "name": "The Ultimate Design Patterns: Part 2",
+    "url": "https://codewithmosh.com/courses/enrolled/760032",
+    "number": 31.0,
+    "duration": {
+      "seconds": 6252,
+      "nanos": 0
+    },
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "MUST",
+    "modules": [
+      {
+        "name": "1- Getting Started ",
+        "duration": {
+          "seconds": 54,
+          "nanos": 0
+        },
+        "moduleNumber": 1.0,
+        "lectures": [
+          {
+            "name": "1- Welcome",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778836",
+            "id": "13778836",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/IX1l58dbTtaVDYnmHQwI",
+            "duration": {
+              "seconds": 54,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Source Code",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778835",
+            "id": "13778835",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/R5pMLXI6S9esePuXoX54",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "Follow Me Around",
+            "url": "https://codewithmosh.com/courses/760032/lectures/25354653",
+            "id": "25354653",
+            "courseId": "760032",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "2- Composite Pattern",
+        "duration": {
+          "seconds": 903,
+          "nanos": 0
+        },
+        "moduleNumber": 2.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778874",
+            "id": "13778874",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/KWNYZPT5RNqW6VnXhDZf",
+            "duration": {
+              "seconds": 513,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778877",
+            "id": "13778877",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/91ArFHIPTrKq2IXhrTVn",
+            "duration": {
+              "seconds": 170,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778875",
+            "id": "13778875",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/7HARXrIKRV6ZUCunwvkR",
+            "duration": {
+              "seconds": 220,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Exercise",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778876",
+            "id": "13778876",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/IHiQGsMhSVqMMba69d0H",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "3- Adapter Pattern",
+        "duration": {
+          "seconds": 580,
+          "nanos": 0
+        },
+        "moduleNumber": 3.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778888",
+            "id": "13778888",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/l9GJ6Ex1T6W6ztEfmbVq",
+            "duration": {
+              "seconds": 304,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778886",
+            "id": "13778886",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/VupjywiFRimYwSpGz3m3",
+            "duration": {
+              "seconds": 92,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778887",
+            "id": "13778887",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/5l6mjHyQ02EYSYzpVbDw",
+            "duration": {
+              "seconds": 184,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Exercise",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778885",
+            "id": "13778885",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/e9raCEPpQmDrqvTJaNXR",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "4- Decorator Pattern",
+        "duration": {
+          "seconds": 968,
+          "nanos": 0
+        },
+        "moduleNumber": 4.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778914",
+            "id": "13778914",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/lmAx7yHhQrmSg1iuYynR",
+            "duration": {
+              "seconds": 368,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778915",
+            "id": "13778915",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/S81bVMCeQHePHwUwMIJB",
+            "duration": {
+              "seconds": 256,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778917",
+            "id": "13778917",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/qQeyAQMDSkOuwFIWj4av",
+            "duration": {
+              "seconds": 344,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Exercise",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778916",
+            "id": "13778916",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/AhgRSMpRYql2BY1ee5ok",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "5- Facade Pattern",
+        "duration": {
+          "seconds": 603,
+          "nanos": 0
+        },
+        "moduleNumber": 5.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778920",
+            "id": "13778920",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/0QTue8MRXeOvirzHH7to",
+            "duration": {
+              "seconds": 326,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778923",
+            "id": "13778923",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/SjchfV6PQSjd5d7FPF3w",
+            "duration": {
+              "seconds": 151,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778921",
+            "id": "13778921",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/WNvs7gkqQNqrllik2ydE",
+            "duration": {
+              "seconds": 126,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Exercise",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778922",
+            "id": "13778922",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/PdkTAFFaRKQADmvhvTDp",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "6- Flyweight Pattern",
+        "duration": {
+          "seconds": 1075,
+          "nanos": 0
+        },
+        "moduleNumber": 6.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778930",
+            "id": "13778930",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/JjAfGiKMQ6tkZYNiU5g8",
+            "duration": {
+              "seconds": 406,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778931",
+            "id": "13778931",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/flV4PMRRq2cX2DF67cYK",
+            "duration": {
+              "seconds": 184,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778932",
+            "id": "13778932",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/XWLkIKBNQBizPD4omWUG",
+            "duration": {
+              "seconds": 485,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Exercise",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778933",
+            "id": "13778933",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/EUZxwJ40SIi0RZuBz7Bb",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "7- Bridge Pattern",
+        "duration": {
+          "seconds": 1060,
+          "nanos": 0
+        },
+        "moduleNumber": 7.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778939",
+            "id": "13778939",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/vYpZlXHgTy4avbjLF0UJ",
+            "duration": {
+              "seconds": 362,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778940",
+            "id": "13778940",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/CaqnQBF5ShGZxdCNsXMF",
+            "duration": {
+              "seconds": 336,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778941",
+            "id": "13778941",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/nJrCDotwTyHdIe7t0QPQ",
+            "duration": {
+              "seconds": 362,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "8- Proxy Pattern",
+        "duration": {
+          "seconds": 990,
+          "nanos": 0
+        },
+        "moduleNumber": 8.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778951",
+            "id": "13778951",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/OPW8FlI1SlCLhS3uIl7l",
+            "duration": {
+              "seconds": 379,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- Solution",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778948",
+            "id": "13778948",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ydqADpTR5OYBNVG4Lwmw",
+            "duration": {
+              "seconds": 270,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778949",
+            "id": "13778949",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/MeMFeD0CSpqfAcJRyKMR",
+            "duration": {
+              "seconds": 341,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4- Exercise",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778950",
+            "id": "13778950",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/pajoXmUFQN6ValxbQyTL",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "9- Course Wrap Up ",
+        "duration": {
+          "seconds": 19,
+          "nanos": 0
+        },
+        "moduleNumber": 9.0,
+        "lectures": [
+          {
+            "name": "1- Summary of Structural Patterns",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778957",
+            "id": "13778957",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/7AXa2kqtQQWmQ44xPQ6s",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2- What\u0027s Next",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13778956",
+            "id": "13778956",
+            "courseId": "760032",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/6R4rqbj5Qga42JyAIJv7",
+            "duration": {
+              "seconds": 19,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- A Quick Note",
+            "url": "https://codewithmosh.com/courses/760032/lectures/13782196",
+            "id": "13782196",
+            "courseId": "760032",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1467728",
+    "name": "The Ultimate Design Patterns: Part 3",
+    "url": "https://codewithmosh.com/courses/enrolled/1467728",
+    "number": 32.0,
+    "duration": {
+      "seconds": 3136,
+      "nanos": 0
+    },
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "MUST",
+    "modules": [
+      {
+        "name": "1- Getting Started ",
+        "duration": {
+          "seconds": 39,
+          "nanos": 0
+        },
+        "moduleNumber": 1.0,
+        "lectures": [
+          {
+            "name": "1 - Welcome",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902656",
+            "id": "33902656",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/oJbXk6SQdKNjn7c9OomQ",
+            "duration": {
+              "seconds": 39,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2 - Source Code",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902676",
+            "id": "33902676",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/JRlgQ8l9QvWftPQOw6gY",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3 - Getting Help",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902765",
+            "id": "33902765",
+            "courseId": "1467728",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4 - Learning Paths",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902813",
+            "id": "33902813",
+            "courseId": "1467728",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "5 - Follow Me Around",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902826",
+            "id": "33902826",
+            "courseId": "1467728",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "2- Prototype Pattern ",
+        "duration": {
+          "seconds": 487,
+          "nanos": 0
+        },
+        "moduleNumber": 2.0,
+        "lectures": [
+          {
+            "name": "1 - The Problem",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902871",
+            "id": "33902871",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/vzoRd8fLSZSuPQjPAKjH",
+            "duration": {
+              "seconds": 266,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2 - Solution",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902870",
+            "id": "33902870",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/9FbaNotTQMuB6HPeE766",
+            "duration": {
+              "seconds": 85,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3 - Implementation",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902868",
+            "id": "33902868",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/UARZzBmFRIafl8JRhBWa",
+            "duration": {
+              "seconds": 136,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4 - Exercise",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902869",
+            "id": "33902869",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/VPfj6ZitQ7qCKbL9vqND",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "3- Singleton Pattern ",
+        "duration": {
+          "seconds": 341,
+          "nanos": 0
+        },
+        "moduleNumber": 3.0,
+        "lectures": [
+          {
+            "name": "1 - The Problem",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902919",
+            "id": "33902919",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/EooDRKzNQV27V76Qv1X3",
+            "duration": {
+              "seconds": 156,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2 - Solution",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902918",
+            "id": "33902918",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/vb8crTkjTyqJSdk4RroA",
+            "duration": {
+              "seconds": 92,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3 - Implementation",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902917",
+            "id": "33902917",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/1WXWTLsBSKq53fFhEJV8",
+            "duration": {
+              "seconds": 93,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4 - Exercise",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33902920",
+            "id": "33902920",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/ZDKJZEMQRBaSXNWudYtw",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "4- Factory Method Pattern ",
+        "duration": {
+          "seconds": 770,
+          "nanos": 0
+        },
+        "moduleNumber": 4.0,
+        "lectures": [
+          {
+            "name": "1 - The Problem",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903011",
+            "id": "33903011",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/s0GglDQdy789JZ7v5hQz",
+            "duration": {
+              "seconds": 423,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2 - Solution",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903012",
+            "id": "33903012",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/dT3jQ8xfQ0aVJG9R8R1p",
+            "duration": {
+              "seconds": 114,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3 - Implementation",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903010",
+            "id": "33903010",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/hXkBq2V5RUK4MXBsKEUk",
+            "duration": {
+              "seconds": 233,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4 - Exercise",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903013",
+            "id": "33903013",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/j6R68iUrRJSZtPboPNSg",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "5- Abstract Factory Pattern ",
+        "duration": {
+          "seconds": 562,
+          "nanos": 0
+        },
+        "moduleNumber": 5.0,
+        "lectures": [
+          {
+            "name": "1- The Problem",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903069",
+            "id": "33903069",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/i7YpxD5rRACiCXiBnaQI",
+            "duration": {
+              "seconds": 315,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2 - Solution",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903068",
+            "id": "33903068",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/iPEGWixOSiuQ6VJ3FNGz",
+            "duration": {
+              "seconds": 68,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3- Implementation",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903071",
+            "id": "33903071",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/VidbUcx1Rie0LKKiXI2C",
+            "duration": {
+              "seconds": 179,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4 - Exercise",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903070",
+            "id": "33903070",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/BrV9e4Y4RmeeFioRFbDq",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "6- Builder Pattern ",
+        "duration": {
+          "seconds": 878,
+          "nanos": 0
+        },
+        "moduleNumber": 6.0,
+        "lectures": [
+          {
+            "name": "1 - The Problem",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903083",
+            "id": "33903083",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/JNV3rCVDQsGhFCo0vQvZ",
+            "duration": {
+              "seconds": 386,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2 - Solution",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903085",
+            "id": "33903085",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/2t0IJKunTAi5ACnHI5QK",
+            "duration": {
+              "seconds": 187,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "3 - Implementation",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903084",
+            "id": "33903084",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/rLKFwbIORw6Jof61kxXf",
+            "duration": {
+              "seconds": 305,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "4 - Exercise",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903086",
+            "id": "33903086",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/pXnGphZQYSozIdwS84Ub",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "7- Course Wrap Up ",
+        "duration": {
+          "seconds": 59,
+          "nanos": 0
+        },
+        "moduleNumber": 7.0,
+        "lectures": [
+          {
+            "name": "1 - Summary of Creational Patterns",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903098",
+            "id": "33903098",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/KbitlT8QK2J7itYtrbfg",
+            "duration": {
+              "seconds": 0,
+              "nanos": 0
+            }
+          },
+          {
+            "name": "2 - Final Words",
+            "url": "https://codewithmosh.com/courses/1467728/lectures/33903097",
+            "id": "33903097",
+            "courseId": "1467728",
+            "downloadUrl": "https://cdn.fs.teachablecdn.com/26BwEqLFSGFG5hn4h8BQ",
+            "duration": {
+              "seconds": 59,
+              "nanos": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

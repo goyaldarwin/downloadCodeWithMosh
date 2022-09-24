@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1857029",
+    "name": "Ultimate C++ Part 1: Fundamentals",
+    "url": "https://codewithmosh.com/courses/enrolled/1857029",
+    "number": 16.0,
+    "duration": {
+      "seconds": 0,
+      "nanos": 0
+    },
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "GOOD_TO_HAVE",
+    "modules": []
+  },
+  {
+    "id": "1857235",
+    "name": "Ultimate C++ Part 2: Intermediate",
+    "url": "https://codewithmosh.com/courses/enrolled/1857235",
+    "number": 17.0,
+    "duration": {
+      "seconds": 0,
+      "nanos": 0
+    },
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "GOOD_TO_HAVE",
+    "modules": []
+  },
+  {
+    "id": "1886156",
+    "name": "Ultimate C++ Part 3: Advanced",
+    "url": "https://codewithmosh.com/courses/enrolled/1886156",
+    "number": 18.0,
+    "duration": {
+      "seconds": 0,
+      "nanos": 0
+    },
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "GOOD_TO_HAVE",
+    "modules": []
+  }
+]

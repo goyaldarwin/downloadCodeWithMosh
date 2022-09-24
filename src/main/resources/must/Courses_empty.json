@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1359863",
+    "name": "The Ultimate Docker Course",
+    "url": "https://codewithmosh.com/courses/enrolled/1359863",
+    "number": 5.0,
+    "duration": {
+      "seconds": 0,
+      "nanos": 0
+    },
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "MUST",
+    "modules": []
+  }
+]

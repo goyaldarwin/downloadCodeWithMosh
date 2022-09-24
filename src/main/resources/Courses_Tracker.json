@@ -1,0 +1,398 @@
+[
+  {
+    "id": "417695",
+    "name": "Complete Python Mastery",
+    "url": "https://codewithmosh.com/courses/enrolled/417695",
+    "number": 1.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "525068",
+    "name": "Complete SQL Mastery",
+    "url": "https://codewithmosh.com/courses/enrolled/525068",
+    "number": 2.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "MUST"
+  },
+  {
+    "id": "357787",
+    "name": "Mastering React",
+    "url": "https://codewithmosh.com/courses/enrolled/357787",
+    "number": 3.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "1779784",
+    "name": "The Ultimate TypeScript Course",
+    "url": "https://codewithmosh.com/courses/enrolled/1779784",
+    "number": 4.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "1359863",
+    "name": "The Ultimate Docker Course",
+    "url": "https://codewithmosh.com/courses/enrolled/1359863",
+    "number": 5.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "MUST"
+  },
+  {
+    "id": "1120640",
+    "name": "The Ultimate Git Course",
+    "url": "https://codewithmosh.com/courses/enrolled/1120640",
+    "number": 6.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "MUST"
+  },
+  {
+    "id": "783424",
+    "name": "The Ultimate Redux Course",
+    "url": "https://codewithmosh.com/courses/enrolled/783424",
+    "number": 7.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "293204",
+    "name": "The Complete Node.js Course",
+    "url": "https://codewithmosh.com/courses/enrolled/293204",
+    "number": 8.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "1422300",
+    "name": "The Ultimate Django Series: Part 1",
+    "url": "https://codewithmosh.com/courses/enrolled/1422300",
+    "number": 9.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "1522608",
+    "name": "The Ultimate Django Series: Part 2",
+    "url": "https://codewithmosh.com/courses/enrolled/1522608",
+    "number": 10.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "1604024",
+    "name": "The Ultimate Django Series: Part 3",
+    "url": "https://codewithmosh.com/courses/enrolled/1604024",
+    "number": 11.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "324741",
+    "name": "The Ultimate JavaScript Mastery Series - Part 1",
+    "url": "https://codewithmosh.com/courses/enrolled/324741",
+    "number": 12.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "310571",
+    "name": "The Ultimate JavaScript Mastery Series - Part 2",
+    "url": "https://codewithmosh.com/courses/enrolled/310571",
+    "number": 13.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "206545",
+    "name": "Angular 4: Beginner to Pro",
+    "url": "https://codewithmosh.com/courses/enrolled/206545",
+    "number": 14.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "222293",
+    "name": "The Complete ASP.NET MVC 5 Course",
+    "url": "https://codewithmosh.com/courses/enrolled/222293",
+    "number": 15.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "NOT_NEEDED"
+  },
+  {
+    "id": "1857029",
+    "name": "Ultimate C++ Part 1: Fundamentals",
+    "url": "https://codewithmosh.com/courses/enrolled/1857029",
+    "number": 16.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "1857235",
+    "name": "Ultimate C++ Part 2: Intermediate",
+    "url": "https://codewithmosh.com/courses/enrolled/1857235",
+    "number": 17.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "1886156",
+    "name": "Ultimate C++ Part 3: Advanced",
+    "url": "https://codewithmosh.com/courses/enrolled/1886156",
+    "number": 18.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "223623",
+    "name": "The Ultimate C# Series: Part 1",
+    "url": "https://codewithmosh.com/courses/enrolled/223623",
+    "number": 19.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "NOT_NEEDED"
+  },
+  {
+    "id": "224763",
+    "name": "The Ultimate C# Series: Part 2",
+    "url": "https://codewithmosh.com/courses/enrolled/224763",
+    "number": 20.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "NOT_NEEDED"
+  },
+  {
+    "id": "225147",
+    "name": "The Ultimate C# Series: Part 3",
+    "url": "https://codewithmosh.com/courses/enrolled/225147",
+    "number": 21.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "NOT_NEEDED"
+  },
+  {
+    "id": "236371",
+    "name": "Entity Framework 6 in Depth",
+    "url": "https://codewithmosh.com/courses/enrolled/236371",
+    "number": 22.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "222794",
+    "name": "Unit Testing for C# Developers",
+    "url": "https://codewithmosh.com/courses/enrolled/222794",
+    "number": 23.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "223139",
+    "name": "Xamarin Forms: Build Native Mobile Apps with C#",
+    "url": "https://codewithmosh.com/courses/enrolled/223139",
+    "number": 24.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "NOT_NEEDED"
+  },
+  {
+    "id": "1260591",
+    "name": "The Ultimate HTML5 \u0026 CSS3 Series: Part 1",
+    "url": "https://codewithmosh.com/courses/enrolled/1260591",
+    "number": 25.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "1269823",
+    "name": "The Ultimate HTML5 \u0026 CSS3 Series: Part 2",
+    "url": "https://codewithmosh.com/courses/enrolled/1269823",
+    "number": 26.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "1269822",
+    "name": "The Ultimate HTML5 \u0026 CSS3 Series: Part 3",
+    "url": "https://codewithmosh.com/courses/enrolled/1269822",
+    "number": 27.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "887220",
+    "name": "The Ultimate React Native Series: Fundamentals",
+    "url": "https://codewithmosh.com/courses/enrolled/887220",
+    "number": 28.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "955852",
+    "name": "The Ultimate React Native Series: Advanced Concepts",
+    "url": "https://codewithmosh.com/courses/enrolled/955852",
+    "number": 29.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "759570",
+    "name": "The Ultimate Design Patterns: Part 1",
+    "url": "https://codewithmosh.com/courses/enrolled/759570",
+    "number": 30.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "MUST"
+  },
+  {
+    "id": "760032",
+    "name": "The Ultimate Design Patterns: Part 2",
+    "url": "https://codewithmosh.com/courses/enrolled/760032",
+    "number": 31.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "MUST"
+  },
+  {
+    "id": "1467728",
+    "name": "The Ultimate Design Patterns: Part 3",
+    "url": "https://codewithmosh.com/courses/enrolled/1467728",
+    "number": 32.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "MUST"
+  },
+  {
+    "id": "639884",
+    "name": "The Ultimate Data Structures \u0026 Algorithms: Part 1",
+    "url": "https://codewithmosh.com/courses/enrolled/639884",
+    "number": 33.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "650827",
+    "name": "The Ultimate Data Structures \u0026 Algorithms: Part 2",
+    "url": "https://codewithmosh.com/courses/enrolled/650827",
+    "number": 34.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "680168",
+    "name": "The Ultimate Data Structures \u0026 Algorithms: Part 3",
+    "url": "https://codewithmosh.com/courses/enrolled/680168",
+    "number": 35.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "580597",
+    "name": "Ultimate Java Part 1: Fundamentals",
+    "url": "https://codewithmosh.com/courses/enrolled/580597",
+    "number": 36.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "606251",
+    "name": "Ultimate Java Part 2: Object-oriented Programming",
+    "url": "https://codewithmosh.com/courses/enrolled/606251",
+    "number": 37.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "711980",
+    "name": "Ultimate Java Part 3: Advanced Topics",
+    "url": "https://codewithmosh.com/courses/enrolled/711980",
+    "number": 38.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "423295",
+    "name": "Python Programming for Developers",
+    "url": "https://codewithmosh.com/courses/enrolled/423295",
+    "number": 39.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "225594",
+    "name": "Clean Coding and Refactoring",
+    "url": "https://codewithmosh.com/courses/enrolled/225594",
+    "number": 40.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "222856",
+    "name": "Angular 4 Crash Course for Busy Developers",
+    "url": "https://codewithmosh.com/courses/enrolled/222856",
+    "number": 41.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "228831",
+    "name": "Redux in Angular",
+    "url": "https://codewithmosh.com/courses/enrolled/228831",
+    "number": 42.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": true,
+    "downloadPriority": "GOOD_TO_HAVE"
+  },
+  {
+    "id": "235779",
+    "name": "Build a Real-world App with ASP.NET Core 1.0+ and Angular 2+",
+    "url": "https://codewithmosh.com/courses/enrolled/235779",
+    "number": 43.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "NOT_NEEDED"
+  },
+  {
+    "id": "271672",
+    "name": "C# Developers: Double Your Coding Speed",
+    "url": "https://codewithmosh.com/courses/enrolled/271672",
+    "number": 44.0,
+    "sizeOfCourseInMb": 0.0,
+    "isProcessed": false,
+    "downloadPriority": "NOT_NEEDED"
+  }
+]
